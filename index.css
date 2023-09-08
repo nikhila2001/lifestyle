@@ -1,0 +1,27 @@
+.bg-color{
+    background-color:rgb(223, 209, 223)
+}
+.start-btn{
+background-color: orange;
+box-shadow:  0 24px 28px rgba(202, 95, 8, 0.35), 0 15px 20px  ;
+}
+
+#start_btn:hover{
+background-color: rgb(235, 170, 50);
+}
+.explore-buttons{
+    background-color: rgb(216, 188, 216);
+    color: purple;
+    font-weight: bold;
+    
+}
+.card{
+    cursor: pointer;
+}
+.mycard:hover{
+    background-color: rgb(214, 224, 224);
+}
+.explore-buttons:hover{
+background-color:  rgb(216, 188, 216);
+color: purple;
+}
